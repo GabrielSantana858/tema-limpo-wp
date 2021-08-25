@@ -1,41 +1,12 @@
-﻿/*
-Theme Name: Super Mercado Bonneto
-Theme URI: https://solucaodigital.site
+/*
+Theme Name: Tema Wordpress
+
 Author: Gabriel Santana
 Author URI: https://solucaodigital.site
-Description: Tema para o Bonneto!
+Description: Tema limpo!
 Version: 1.0
 */
 
-img{
-	max-width: 100%;
-}
-:root {
-	--amarelo: #FECB28;
-	--escuro: #660A05;
-}
-a:hover{
-	background-color: transparent!important;
-	color: var(--amarelo)!important;
-}
-/* MENU */
-
-.logo img{
-	width: 50%;
-}
-.menu{
-	background-color: var(--escuro);
-	text-align: center;
-}
-
-.menu a{
-	color: white;
-	border-right: 1px solid white;	
-	padding: 10px 40px!important;
-    text-align: center;	
-}
-
-.navbar-nav{
-	display: inline-block;
-    float: none ;
-}
+/*
+COLE AQUI SEU CSS 
+*/
